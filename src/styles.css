@@ -2,3 +2,12 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.outer {
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.Inner {
+  background-color: green;
+}
