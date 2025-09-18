@@ -10,4 +10,5 @@
 
 .Inner {
   background-color: green;
+  transition : 0.5s ease-in;
 }
